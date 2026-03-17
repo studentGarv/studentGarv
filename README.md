@@ -2,17 +2,6 @@
 
 I'm a developer who loves building practical, AI-powered tools and fun projects that solve real problems.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvmehra_op) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garv-mehra-31a933292) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/technical_op) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/garvmehra09)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=studentGarv&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-[![](https://visitcount.itsvg.in/api?id=studentGarv&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### 🚀 About Me
 
 - 🔭 I'm currently working on Opensource, AI-ML and Python
@@ -53,6 +42,17 @@ I'm a developer who loves building practical, AI-powered tools and fun projects 
 | [Hoshiarpur Sakhi](https://github.com/studentGarv/hoshiarpur-sakhi) | Community-focused web app for local services | TypeScript, Next.js |
 | [Code Radar Solutions](https://github.com/studentGarv/Code-Radar-Solutions) | Competitive programming solutions | C |
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvmehra_op) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garv-mehra-31a933292) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/technical_op) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/garvmehra09)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=studentGarv&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
 ### 📫 Let's Connect
 
 - 💬 Feel free to open an issue or reach out through any of my repos!
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+[![](https://visitcount.itsvg.in/api?id=studentGarv&icon=0&color=0)](https://visitcount.itsvg.in)
