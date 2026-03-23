@@ -49,10 +49,6 @@ I'm a developer who loves building practical, AI-powered tools and fun projects 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvmehra_op) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garv-mehra-31a933292) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/technical_op) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/garvmehra09)
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=studentGarv&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
-</p>
 
 ### 📫 Let's Connect
 
